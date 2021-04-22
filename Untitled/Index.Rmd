@@ -1,7 +1,7 @@
 ---
 title: "Estrategias de intervención basadas en tareas cotidianas"
 subtitle: "Presentation subtitle"
-author: "Neuropsicólogo Daniel Salazar-Frías"
+author: "Neuropsicólogo. Daniel Salazar-Frías"
 institute: "Universidad de Granada"
 date: "30 de abril de 2021"
 output:
