@@ -31,8 +31,8 @@
 /*-- LINKS/ANCHORS --*/
 a {
   color:              #ae8f00;
-  border-bottom:      2px solid #ae8f00;
-  line-height:        .5em;
+  border-bottom:      .0px solid #ae8f00;
+  line-height:        .0em;
 }
 
 a:hover {
@@ -50,20 +50,20 @@ a:hover {
 
 /*-- HEADINGS --*/
 .remark-slide-content h1 {
-  color:              #122140;
+  color:              #005EB8;
   font-size:          45px;
   line-height:        1em;
 }
 
 .remark-slide-content h2 {
   font-size:          35px;
-  color:              #122140;
+  color:              #005EB8;
   line-height:        1em;
 }
 
 .remark-slide-content h3 {
   font-size:          25px;
-  color:              #122140;
+  color:              #005EB8;
 }
 
 /*-- PARAGRAPH TEXT --*/
@@ -167,7 +167,7 @@ blockquote {
 
 /*-- Headings (inverse) --*/
 .inverse h1, .inverse h2, .inverse h3 {
-  color:              #005EB8;
+  color:              #E8EDEE;
 }
 
 /*-- Horizontal bars (inverse) --*/
@@ -196,7 +196,7 @@ blockquote {
 
 /*-- Headings --*/
 .title-slide h1 {
-  color:               #005EB8;
+  color:               #000000;
 }
 
 /*-- Hides slide number from title slide --*/
