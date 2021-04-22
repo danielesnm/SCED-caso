@@ -59,24 +59,18 @@ name: about-me
 layout: false
 class: about-me-slide, inverse, middle, center
 
-# Sobre mí
-
-<img style="border-radius: 50%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/yo.png?raw=true" width="150px"/>
+<img style="border-radius: 50%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/yo.jpeg?raw=true" width="150px"/>
 
 ## Daniel Salazar-Frías
+___
 
-### Estudiante Predoctoral
+### .orange[Estudiante Predoctoral.] .fade[Universidad de Granada UGR<br>Granada, España]
 
-.fade[Universidad de Granada<br>Granada, España]
+#### .orange[Maestria en Diagnóstico y Rehabilitación Neuropsicológica.] .fade[Benemerita Universidad Autónoma de Puebla BUAP<br>Puebla, México]
 
-???
+#### .orange[Licenciatura en Psicología.] .fade[Universidad de Monterrey UDEM<br>Monterrey, México]
 
----
-class: inverse, middle, center
-
-# An inverse slide
-
-Often used for transitions
+`r fa("envelope", fill = "salmon")` dsalazarfrias@gmail.com `r fa("twitter", fill = "salmon")` @danielesnm
 
 ---
 
