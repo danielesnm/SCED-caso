@@ -1,32 +1,3 @@
-:root{
-/*-- COLOR VARIABLES --*/
---DarkBlue:           #003087;
---Blue:               #005EB8;
---BrightBlue:         #0072CE;
-
---Black:              #231F20;
---DarkGrey:           #425563;
---MidGrey:            #768692;
---PaleGrey:           #E8EDEE;
---White:              #FFFFFF;
-
---DarkGreen:          #006747;
---Green:              #009639;
---AquaGreen:          #00A499;
-
---Purple:             #330072;
---DarkPink:           #7C2855;
---Pink:               #AE2573;
---DarkRed:            #8A1538;
---Red:                #DA291C;
-
---my-blue:            #122140;
---my-yellow:          #e5bf00;
---my-gold:            #ae8f00;
---my-coral:          #903030;
---my-red:            #600018;
---my-pink:           #c09090;
-}
 
 /*-- LINKS/ANCHORS --*/
 a {
@@ -68,8 +39,8 @@ a:hover {
 
 /*-- PARAGRAPH TEXT --*/
 .remark-slide-content {
-  font-size:          22px;
-  line-height:        1.2em;
+  font-size:          24px;
+  line-height:        1.0em;
 }
 
 /*-- HORIZONTAL BARS --*/
