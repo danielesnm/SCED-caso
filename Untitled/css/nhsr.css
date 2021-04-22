@@ -160,14 +160,14 @@ blockquote {
 
 /*-- Slide background and text (inverse) --*/
 .inverse {
-  background-color:   #005EB8;
-  color:              #FFFFFF;
+  background-color:   #122140;
+  color:              #E8EDEE;
   text-shadow:        none;
 }
 
 /*-- Headings (inverse) --*/
 .inverse h1, .inverse h2, .inverse h3 {
-  color:              #FFFFFF;
+  color:              #E8EDEE;
 }
 
 /*-- Horizontal bars (inverse) --*/
