@@ -61,14 +61,14 @@ class: about-me-slide, inverse, middle, center
 
 <img style="border-radius: 50%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/yo.jpeg?raw=true" width="150px"/>
 
-## Daniel Salazar-Frías
+## .my-gold[Daniel Salazar-Frías]
 ___
 
-### .orange[Estudiante Predoctoral.] .fade[Universidad de Granada UGR<br>Granada, España]
+### .my-gold[Estudiante Predoctoral.] .fade[Universidad de Granada UGR<br>Granada, España]
 
-#### .orange[Maestria en Diagnóstico y Rehabilitación Neuropsicológica.] .fade[Benemerita Universidad Autónoma de Puebla BUAP<br>Puebla, México]
+#### .my-gold[Maestria en Diagnóstico y Rehabilitación Neuropsicológica.] .fade[Benemerita Universidad Autónoma de Puebla BUAP<br>Puebla, México]
 
-#### .orange[Licenciatura en Psicología.] .fade[Universidad de Monterrey UDEM<br>Monterrey, México]
+#### .my-gold[Licenciatura en Psicología.] .fade[Universidad de Monterrey UDEM<br>Monterrey, México]
 
 `r fa("envelope", fill = "salmon")` dsalazarfrias@gmail.com `r fa("twitter", fill = "salmon")` @danielesnm
 
