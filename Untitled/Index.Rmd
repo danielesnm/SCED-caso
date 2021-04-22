@@ -161,3 +161,13 @@ background-size: 65%
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Modelo.png?raw=true)
 background-position: 50% 98%
 background-size: 65%
+
+--
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/3.%20Modelo.png?raw=true)
+background-position: 50% 98%
+background-size: 65%
+
+--
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/4.%20Modelo.png?raw=true)
+background-position: 50% 98%
+background-size: 65%
