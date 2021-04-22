@@ -121,12 +121,13 @@ background-size: contain
 .center[<img style="border-radius: 0%;" src="https://i.pinimg.com/564x/ce/bf/90/cebf90f0c46ca3b076565f73d2451be8.jpg" width="300px"/>]]
 
 .right-column[ 
-> ## Déficit de conciencia. .pink[Anosognosia]  
-
+.center[## Déficit de conciencia. .pink[Anosognosia]  
+]
 .center[ _“Fenómeno clínico en el que la persona, no esta consciente de la función neuropsicológica deteriorada, lo cual interfiere con su adecuado funcionamiento…” [(Prigatano & Schacter, 1991)](https://psycnet.apa.org/record/1991-97649-000)_ 
 ]
 
-<br><br>
+--
+<br>
 1. Mayor .pink[dificultad en las tareas cotidianas.]
 2. Implicación en .pink[actividades que le sobrepasan,] resultando peligrosas. 
 3. Obstaculiza su .pink[participación] en el proceso de rehabilitación. 
@@ -138,7 +139,7 @@ background-size: contain
 
 .panel[.panel-name[Modelo Dinámico de Conciencia]
 
-.center[## .pink[Modelo Dinámico de Conciencia (Toglia & Kirk, 200)]
+.center[## Modelo Dinámico de Conciencia (Toglia & Kirk, 2000)
 ]
 
 <br>
