@@ -21,26 +21,26 @@ a:hover {
 
 /*-- HEADINGS --*/
 .remark-slide-content h1 {
-  color:              #005EB8;
+  color:              #003087;
   font-size:          45px;
   line-height:        1em;
 }
 
 .remark-slide-content h2 {
   font-size:          35px;
-  color:              #005EB8;
+  color:              #003087;
   line-height:        1em;
 }
 
 .remark-slide-content h3 {
   font-size:          25px;
-  color:              #005EB8;
+  color:              #003087;
 }
 
 /*-- PARAGRAPH TEXT --*/
 .remark-slide-content {
-  font-size:          24px;
-  line-height:        1.0em;
+  font-size:          23px;
+  line-height:        1.2em;
 }
 
 /*-- HORIZONTAL BARS --*/
