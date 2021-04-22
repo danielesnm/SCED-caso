@@ -1,4 +1,4 @@
-
+:root{
 /*-- COLOR VARIABLES --*/
 --DarkBlue:           #003087;
 --Blue:               #005EB8;
@@ -23,11 +23,10 @@
 --my-blue:            #122140;
 --my-yellow:          #e5bf00;
 --my-gold:            #ae8f00;
-
 --my-coral:          #903030;
 --my-red:            #600018;
 --my-pink:           #c09090;
-
+}
 
 /*-- LINKS/ANCHORS --*/
 a {
@@ -69,7 +68,7 @@ a:hover {
 
 /*-- PARAGRAPH TEXT --*/
 .remark-slide-content {
-  font-size:          20px;
+  font-size:          22px;
   line-height:        1.2em;
 }
 
