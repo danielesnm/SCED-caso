@@ -78,10 +78,56 @@ Often used for transitions
 * third point
 
 ---
-# Introducción
-___
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Intro.png?raw=true)
+background-position: 50% 100%
+background-size: contain
+
+--
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2.%20Intro.png?raw=true)
+background-position: 50% 100%
+background-size: contain
 
 ---
+# `r fa("brain", fill = "salmon")` **Antecedentes científicos**
 
+.panelset[
+.panel[.panel-name[Funciones Ejecutivas (FE)]
+
+.left-column[<br>
+.center[<img style="border-radius: 50%;" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bf54c886843831.5da6085d6a248.jpg" style="width: 50%" />]]
+
+.right-column[- Conjunto de habilidades que permiten a las personas participar con éxito en actividades de manera independiente [(Lezak, et al., 2012)](https://psycnet.apa.org/record/2012-02043-000).  
+
+- Autores como [Miyake et al (2000)](https://pubmed.ncbi.nlm.nih.gov/10945922/), se han centrado en 3 aspectos de las FE: capacidad de **alternar** entre esquemas o tareas mentales, capacidad de **monitorear** y adaptar el comportamiento para ajustarse a un contexto particular, capacidad de **inhibición** de los esquemas/tareas predominantes o de respuestas automáticas. 
+
+- Otros autores [(Kennedy & Coelho, 2005;](https://pubmed.ncbi.nlm.nih.gov/16278796/) [Stuss, 2011)](https://pubmed.ncbi.nlm.nih.gov/21729406/), también han considerado que las **habilidades metacognitivas** están estrechamente ligadas a la FE, incluyendo la autoconciencia, el autocontrol y la autorregulación, que interactúan dinámicamente para un desempeño adecuado en las rutinas diarias.
+]
+]
+
+.panel[.panel-name[Anosognosia]
+
+.left-column[<br>
+.center[<img style="border-radius: 0%;" src="https://i.pinimg.com/564x/ce/bf/90/cebf90f0c46ca3b076565f73d2451be8.jpg" width="300px"/>]]
+
+.right-column[ 
+> ## Déficit de conciencia. .pink[Anosognosia]  
+
+.center[ _“Fenómeno clínico en el que la persona, no esta consciente de la función neuropsicológica deteriorada, lo cual interfiere con su adecuado funcionamiento…” [(Prigatano & Schacter, 1991)](https://psycnet.apa.org/record/1991-97649-000)_ 
+]
+
+<br><br>
+1. Mayor .pink[dificultad en las tareas cotidianas.]
+2. Implicación en .pink[actividades que le sobrepasan,] resultando peligrosas. 
+3. Obstaculiza su .pink[participación] en el proceso de rehabilitación. 
+4. .pink[Disminuye] la eficacia de los tratamientos.
+5. Aumento en la .pink[sobrecarga del cuidador] y de los sistemas sanitarios.
+
+]]
+
+
+.panel[.panel-name[Modelo Dinámico de Conciencia]
+.center[<img style="border-radius: 0%;" src="https://i.pinimg.com/564x/ce/bf/90/cebf90f0c46ca3b076565f73d2451be8.jpg" width="300px"/>]
+]
+]
 
 ---
