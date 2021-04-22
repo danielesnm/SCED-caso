@@ -147,3 +147,10 @@ background-size: contain
 ]
 
 ---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Modelo.png)
+background-size: contain
+
+--
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2.%20Modelo.png)
+background-size: contain
+---
