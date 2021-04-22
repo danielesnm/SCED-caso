@@ -1,9 +1,9 @@
 ---
-title: "Presentation title"
+title: "Estrategias de intervención basadas en tareas cotidianas"
 subtitle: "Presentation subtitle"
-author: "Author Name"
-institute: "NHS Organisation"
-date: "Presentation Date"
+author: "Neuropsicólogo Daniel Salazar-Frías"
+institute: "Universidad de Granada"
+date: "30 de abril de 2021"
 output:
   xaringan::moon_reader:
     css: 
@@ -23,20 +23,27 @@ output:
 ---
 
 ```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE)
 library(knitr)
 library(tidyverse)
+library(xaringanExtra)
 library(nhsrtheme)
+library(NHSRdatasets)
+library(fontawesome)
 # set default options
-opts_chunk$set(echo = FALSE,
+opts_chunk$set(echo=FALSE,
+               collapse = TRUE,
                fig.width = 7.252,
                fig.height = 4,
                dpi = 300)
+# set engines
+knitr::knit_engines$set("markdown")
+xaringanExtra::use_tile_view()
+xaringanExtra::use_panelset()
+xaringanExtra::use_clipboard()
+xaringanExtra::use_tachyons()
+xaringanExtra::use_scribble()
 
-# uncomment the following lines if you want to use the NHS-R theme colours by default
-# scale_fill_continuous <- partial(scale_fill_nhs, discrete = FALSE)
-# scale_fill_discrete <- partial(scale_fill_nhs, discrete = TRUE)
-# scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALSE)
-# scale_colour_discrete <- partial(scale_colour_nhs, discrete = TRUE)
 ```
 
 class: title-slide, left, bottom
