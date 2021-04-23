@@ -170,6 +170,10 @@ blockquote {
   color:               #122140;
 }
 
+.title-slide h2 {
+  color:               #000000;
+}
+
 /*-- Hides slide number from title slide --*/
 .title-slide .remark-slide-number {
   display:             none;
