@@ -73,7 +73,7 @@ ___
 `r fa("envelope", fill = "salmon")` dsalazarfrias@gmail.com `r fa("twitter", fill = "salmon")` @danielesnm
 
 ---
-# ¿Quiénes somos?
+## ¿Quiénes somos?
 
 .panelset[
 .panel[.panel-name[**Neurociencia Cognitiva**]
@@ -223,17 +223,17 @@ background-position: 50% 98%
 background-size: 65%
 
 ---
-background-image: url(https://image.freepik.com/vector-gratis/servicio-limpieza-deberes-profesionales-composiciones-planas-2-juegos-horizontales-piso-barriendo-espejos-aspiradores-lavado-ilustracion_1284-29298.jpg)
-background-position: 50% 100%
-background-size: 50%
+background-image: url(https://image.freepik.com/vector-gratis/servicio-limpieza-deberes-profesionales-composiciones-planas-2-juegos-horizontales-piso-barriendo-espejos-aspiradores-lavado-ilustracion_1284-29298.jpg), url(https://www.pbctoday.co.uk/news/wp-content/uploads/2018/10/dreamstime_s_3016268-1.jpg)
+background-position: 90% 100%, 5% 100%
+background-size: 45%, 40%
 # `r fa("brain", fill = "salmon")` **Antecedentes científicos**
 
  
 - Dificultades en *habilidades ejecutivas y metacognitivas* `r fa("equals", fill = "salmon")` predictor de __dependencia__ en IADL.
 
-- Deficits en la capacidad de .orange[detectar/corregir errores] y en la capacidad de .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* (Burgess, 2000; Chevignard et al., 2008; Ciurli et al., 2010; Hart, et al, 1998; Hendry et al., 2016; Niki, et al., 2019; Ownsworth y Clare, 2006; Villalobos et al., 2020).
+- Deficits en la capacidad de .orange[detectar/corregir errores] y en la capacidad de .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)
 
-- Dada la alta prevalencia de estos déficits y su fuerte capacidad para predecir las limitaciones de los pacientes en IADL, es crucial que los profesionales de la rehabilitación encuentren herramientas de intervención efectivas para mejorarlos, después de un daño cerebral.
+- Dada la alta prevalencia de estos déficits y su fuerte capacidad para predecir las limitaciones de los pacientes en IADL, es crucial que los profesionales de la rehabilitación desarrollen **herramientas de intervención efectivas** para mejorarlos, después de un daño cerebral.
 
 ---
 background-image: url(https://www.brainscape.com/academy/content/images/2020/11/Brain-inception.png)
@@ -243,26 +243,56 @@ background-size: 35%
 # Estrategias de intervención 
 
 > ## Occupational-based cognitive rehabilitation
-- Se enfoca en trabajar la cognición directamente a través de actividades significativas para lograr la mejor adaptación posible del individuo a la vida diaria (Park, et al., 2015; Toglia, 1991).
+- Se enfoca en trabajar la cognición directamente a través de actividades significativas para lograr la mejor adaptación posible del individuo a la vida diaria [(Park, et al., 2015;](https://pubmed.ncbi.nlm.nih.gov/25808426/) [Toglia, 1991)](https://pubmed.ncbi.nlm.nih.gov/2063940/).
 
 
 > ## Metacognitive strategy training (MST)
 - Enfoque de rehabilitación cognitiva que facilita el desarrollo de la autoconciencia en pacientes con DCA y una mayor independencia funcional. Su objetivo es enseñar a los pacientes a controlar su rendimiento, identificar y corregir errores y generar estrategias para su uso futuro.
-  #### - Error-based v.s Error-less
+  #### Error-based v.s Error-less [(Ownsworth et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/29139337/).
 
----
-background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
-background-position: 5% 35%
-background-size: 25%
-# Estrategias de intervención 
-
-.right-column[ - Error-less learning. La prioridad es evitar que los individuos cometan errores durante la intervención (Middleton & Schwartz, 2012), 
+???
+Error-less learning. La prioridad es evitar que los individuos cometan errores durante la intervención (Middleton & Schwartz, 2012), 
 
 - Error-based learning. Una forma de entrenamiento de habilidades metacognitivas (MST ) donde el terapeuta ofrece oportunidades estructuradas para cometer errores, tomar conciencia y corregirlos (Keith & Frese, 2008). 
-]  
 
-<br><br><br><br><br><br><br><br><br><br>
-- Este último enfoque ha demostrado ser más efectivo en comparación con el aprendizaje sin errores, promoviendo una mayor generalización de habilidades y mejorando las habilidades metacognitivas y la competencia conductual en pacientes con daño cerebral para compensar las deficiencias cognitivas (Ownsworth et al., 2017).
+- Este último enfoque ha demostrado ser más efectivo en comparación con el aprendizaje sin errores, promoviendo una mayor generalización de habilidades y mejorando las habilidades metacognitivas y la competencia conductual en pacientes con daño cerebral para compensar las deficiencias cognitivas 
+
+---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Intervencionmodelo.png?raw=true)
+background-position: 50% 95%
+background-size: 70%
+
+## .center[[Modelo Dinámico de Conciencia (Toglia & Kirk, 2000)](https://pubmed.ncbi.nlm.nih.gov/11455082/)]
+### .center[Metacognitive strategy training (MST)]
+
+---
+# Limitaciónes de estos estudios
+
+- **No miden la generalización** de las habilidades aprendidas a otras tareas.
+
+- **Entrenan la misma tarea** con el mismo grado de dificultad con lo cual cada vez hay menos oportunidades de error.
+
+- Miden la monitorización como **cantidad de errores cometidos** y no con medidas independientes de conciencia y detección
+
+---
+AQUI PAPER TOGLIA
+
+---
+# .center[Train to transfer]
+
+.right-column[Propone diferentes métodos para enseñar a usar estrategias y promover la generalización y mejorar el desempeño funcional.  
+
+.orange[¿Cómo?] `r fa("arrow-right", fill = "salmon")` Variando sistemáticamente las actividades y su contexto, aumentando gradualmente la distancia de transferencia (near/intermediate/far transfer).  
+
+## .center[`r fa("angle-double-down", fill = "salmon")`]
+
+1. Autogeneración de estrategias  
+2. Práctica en contextos múltiples, estructurando las actividades para que la similitud física disminuya gradualmente  
+3. Énfasis en el entrenamiento metacognitivo  
+4. Actividades cotidianas
+]
+
+
 
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
