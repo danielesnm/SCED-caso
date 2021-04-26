@@ -73,7 +73,7 @@ ___
 `r fa("envelope", fill = "salmon")` dsalazarfrias@gmail.com `r fa("twitter", fill = "salmon")` @danielesnm
 
 ---
-## ¿Quiénes somos?
+## .orange[¿Quiénes somos?]
 
 .panelset[
 .panel[.panel-name[**Neurociencia Cognitiva**]
@@ -112,11 +112,13 @@ Colaboradora
 ### Mecanismos cognitivos y cerebrales de la anosognosia en pacientes con daño cerebral adquirido: Nuevas estrategias de evaluación e intervención basadas en tareas cotidianas
 
 ### Objetivos:
-1. Creación y validación de test de evaluación cognitivo-funcionales
+1. **Creación y validación de test de evaluación** cognitivo-funcionales
 basados en tareas cotidianas y significativas para incrementar su validez ecológica.
-2. Conocer los correlatos cerebrales alterados asociados a la anosognosia. 
-3. Poner a prueba la eficacia tanto comportamental como neural (plasticidad cerebral) de una nueva estrategia de intervención para mejorar los déficits en monitorización.
+2. Conocer los **correlatos cerebrales** alterados asociados a la anosognosia. 
+3. Poner a prueba la eficacia tanto comportamental como neural (plasticidad cerebral) de una nueva **estrategia de intervención para mejorar los déficits en monitorización**.
 
+.center[<img src="https://media.istockphoto.com/vectors/set-of-neurology-disease-diagnostics-and-treatment-doctor-neurologist-vector-id1214070747?k=6&m=1214070747&s=612x612&w=0&h=rhH51HcRy9qgF-WuIYPwdVhd-yhPwGr1sCo3G4Vs_S0=" width="500px">
+]
 ]]
 
 ???
@@ -266,6 +268,10 @@ background-size: 70%
 ### .center[Metacognitive strategy training (MST)]
 
 ---
+background-image: url(https://img.freepik.com/vector-gratis/concepto-banner-web-neurologia-idea-tratamiento-medico-atencion-medica-ilustracion_277904-4304.jpg?size=626&ext=jpg)
+background-position: 50% 105%
+background-size: 50%
+
 # Limitaciónes de estos estudios
 
 - **No miden la generalización** de las habilidades aprendidas a otras tareas.
@@ -338,25 +344,84 @@ se identifican con menos facilidad. Se cambian de tres a seis características d
 ]
 
 
- 
-
+---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Actividades%20toglia.png?raw=true)
+background-position: 50% 65%
+background-size: 90%
 
 
 ---
 background-image: url(https://image.freepik.com/vector-gratis/ilustracion-concepto-salud-mental_114360-2038.jpg)
 background-position: 95% 101%
-background-size: 23%
+background-size: 20%
 # Objetivos de la intervención
 
 <br>
 ## 1. Mejorar la .orange[*detección y corrección de errores*] durante la ejecución de ADL.
  
-## 2. .orange[*Mantenimiento*] de lo aprendido durante las sesiones de intervención.
+## 2. Determinar el .orange[*mantenimiento*] de lo aprendido durante las sesiones de intervención y en un seguimiento de 2/4 semanas.
 
-## 3. .orange[*Generalización*] a diferentes situaciones cercanas y lejanas.
+## 3. Determinar la cantidad de .orange[*generalización*] a diferentes contextos de tareas (near transfer) y tareas no capacitadas (far transfer).
+
+???
+La combinación de trabajar más directamente en los déficits ejecutivos y en el contexto de una IADL significativa puede ser crucial no solo para una mejora en las tareas capacitadas, sino para un claro efecto de transferencia a las tareas no capacitadas. Teniendo en cuenta la necesidad de realizar más estudios, el fundamento del presente estudio fue probar si las estrategias de rehabilitación basadas en errores implementadas durante la intervención basada en la ocupación para adultos con LCA mejoran las alteraciones ejecutivas al hacer que los participantes sean conscientes de estas y motivarlos a implementar nuevas estrategias para mejorar el control inhibitorio y la capacidad de resolución de problemas. Los objetivos específicos incluyeron:
 
 ---
+layout: false
+class: about-me-slide, inverse, middle, center
 
+# .gold[Materiales y Metodos]
+----
+# `r fa("user-check", fill = "orange")`   `r fa("list-ol", fill = "orange")`    `r fa("clinic-medical", fill = "orange")`
+
+---
+## Materiales y Metodos
+
+.panelset[
+.panel[.panel-name[Diseño]
+
+.pull-left[<br><br>
+<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/logo-blue.png?raw=true" width="500px">]
+
+.pull-right[<br><br>
+**Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)** del grupo de Neurociencia Cognitiva de _Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_, perteneciente a la **Universidad de Granada.** 
+
+Con gran experiencia trabajando en esta temática a través de varios proyectos financiados por la Junta de Andalucía y el Ministerio de Educación y Ciencia. 
+]
+]
+.panel[.panel-name[Participante]
+
+.pull-left[- Dra. María Jesús Funes Molina (**IP**)
+- Dra. María Rodriguez Bailón
+- Dra. Dulce Romero Ayuso (profesora en terapia ocupacional)
+- Dr. José Antonio Merchán Baéza
+- Daniel Salazar Frías (estudiante predoctoral)
+- Giorgia Ricchetti (estudiante predoctoral) 
+- Alba Navarro Egido (estudiante predoctoral)
+- Ana Szot, TO
+
+Colaboradora
+- Dra. Patrocinio Ariza Vega (profesora en terapia ocupacional)
+]
+
+.pull-right[<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/equipo.jpg?raw=true" width="500px">]
+
+]
+
+
+.panel[.panel-name[**Outcome measures**]
+
+### Mecanismos cognitivos y cerebrales de la anosognosia en pacientes con daño cerebral adquirido: Nuevas estrategias de evaluación e intervención basadas en tareas cotidianas
+
+### Objetivos:
+1. **Creación y validación de test de evaluación** cognitivo-funcionales
+basados en tareas cotidianas y significativas para incrementar su validez ecológica.
+2. Conocer los **correlatos cerebrales** alterados asociados a la anosognosia. 
+3. Poner a prueba la eficacia tanto comportamental como neural (plasticidad cerebral) de una nueva **estrategia de intervención para mejorar los déficits en monitorización**.
+
+.center[<img src="https://media.istockphoto.com/vectors/set-of-neurology-disease-diagnostics-and-treatment-doctor-neurologist-vector-id1214070747?k=6&m=1214070747&s=612x612&w=0&h=rhH51HcRy9qgF-WuIYPwdVhd-yhPwGr1sCo3G4Vs_S0=" width="500px">
+]
+]]
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
 background-position: 5% 50%
