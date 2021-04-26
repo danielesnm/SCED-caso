@@ -184,10 +184,11 @@ blockquote {
 .green      { color:   #009639 }
 .pink       { color:   #AE2573 }
 .red        { color:   #DA291C }
-.palegrey   { color:   #E8EDEE}
+.black      { color:   #000000 }
+.palegrey   { color:   #E8EDEE }
 .my-blue    { color:   #122140 }
 .my-yellow  { color:   #e5bf00 }
-.my-gold    { color:   #ae8f00}
+.my-gold    { color:   #ae8f00 }
 .my-red     { color:   #600018 }
 .my-coral   { color:   #903030 }
 .my-pink    { color:   #c09090 }
