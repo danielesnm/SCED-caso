@@ -1,9 +1,9 @@
 ---
 title: ".orange[Estrategias de intervención basadas en tareas cotidianas]"
 subtitle: "Presentation subtitle"
-author: ".palegrey[Neuropsicólogo. Daniel Salazar-Frías]"
-institute: ".palegrey[Universidad de Granada]"
-date: "30 de abril de 2021"
+author: ".black[Neuropsicólogo. Daniel Salazar-Frías]"
+institute: ".black[Universidad de Granada]"
+date: ".black[30 de abril de 2021]"
 output:
   xaringan::moon_reader:
     css: 
@@ -81,10 +81,11 @@ ___
 .pull-left[<br><br>
 <img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/logo-blue.png?raw=true" width="500px">]
 
-.pull-right[<br><br>
-**Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)** del grupo de Neurociencia Cognitiva de _Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_, perteneciente a la **Universidad de Granada.** 
+.pull-right[### .orange[Laboratorio de Neuropsicología y Actividades de la Vida Diaria (AVD)]  
+**Grupo de Neurociencia Cognitiva**  
+_Centro de investigación Mente Cerebro y Comportamiento (CIMCYC)_  
 
-Con gran experiencia trabajando en esta temática a través de varios proyectos financiados por la Junta de Andalucía y el Ministerio de Educación y Ciencia. 
+.center[<img src="https://cimcyc.ugr.es/pages/imagenes/25/!" width="500px">]
 ]
 ]
 .panel[.panel-name[**Integrantes del laboratorio**]
@@ -235,7 +236,7 @@ background-size: 45%, 40%
 
 - Deficits en la capacidad de .orange[detectar/corregir errores] y para .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)
 
-- Dada la alta prevalencia de estos déficits y su fuerte capacidad para predecir las limitaciones de los pacientes en IADL, es crucial que los profesionales de la rehabilitación desarrollen **herramientas de intervención efectivas** para mejorarlos, después de un daño cerebral.
+- Dada la alta prevalencia de estos déficits y su relación con IADL, es crucial el **desarrollo de herramientas de intervención efectivas** en pacientes con daño cerebral. 
 
 ---
 background-image: url(https://www.brainscape.com/academy/content/images/2020/11/Brain-inception.png)
