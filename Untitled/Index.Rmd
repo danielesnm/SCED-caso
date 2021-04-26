@@ -278,8 +278,12 @@ background-size: 70%
 AQUI PAPER TOGLIA
 
 ---
-# .center[Train to transfer]
+background-image: url(https://image.freepik.com/free-vector/neurology-flat-concept-illustration-nervous-system-brain-function-education-intelligence-healthy-lifestyle-2d-cartoon-characters_151150-2182.jpg)
+background-position: 0% 35%
+background-size: 30%
 
+# .center[Train to transfer]
+## .center[Enfoque multicontexto [(Toglia, 1991)](https://pubmed.ncbi.nlm.nih.gov/2063940/)]  
 .right-column[Propone diferentes métodos para enseñar a usar estrategias y promover la generalización y mejorar el desempeño funcional.  
 
 .orange[¿Cómo?] `r fa("arrow-right", fill = "salmon")` Variando sistemáticamente las actividades y su contexto, aumentando gradualmente la distancia de transferencia (near/intermediate/far transfer).  
@@ -293,6 +297,65 @@ AQUI PAPER TOGLIA
 ]
 
 
+???
+Además, como muchos clientes reanudan diariamente
+actividades, es poco probable que haya un apoyo continuo o un entorno estructurado disponible para
+ayudar a utilizar las habilidades y estrategias recién aprendidas. Por lo tanto, las habilidades y estrategias deben ser
+adquiridos durante la terapia de una manera que les permita ser aplicados independientemente por los clientes
+en una variedad de situaciones que pueden diferir del evento de aprendizaje inicial (Toglia & Kirk,
+1991). Este fenómeno, el uso o la aplicación de aprendizajes previos en nuevos contextos, es a menudo
+denominada "transferencia" o "generalización" del aprendizaje (Flavel, 1971; Woodworth & Thorndike,
+1901). Para este artículo, tratamos la transferencia y la generalización como construcciones superpuestas y usamos
+la siguiente definición. La transferencia es el grado en que una habilidad aprendida en un contexto puede ser
+realizado en otro contexto, y la transferencia de formación se refiere al potencial de aprendizaje
+la habilidad influirá en la capacidad de aprendizaje de otra habilidad (Geusgens et al., 2007).
+El contexto se refiere a interno (estado de ánimo / emoción) o externo (entorno físico / social)
+Circunstancias asociadas con el evento de aprendizaje o desempeño (Roediger, Dudai &
+Fitzpatrick, 2007).
+
+---
+# .center[Análisis de la tarea y establecimiento de criterios para la transferencia]
+
+.left-column[
+## Near transfer `r fa("arrow-right", fill = "purple")`
+<br>
+## .orange[Intermediate transfer] `r fa("arrow-right", fill = "salmon")`
+<br><br>
+## Far transfer `r fa("arrow-right", fill = "black")`
+
+]
+
+.right-column[ 
+- Se cambian una o dos características de la tarea. La tarea es físicamente similar a la anterior y se puede describir como una forma alternativa de la tarea original.  
+
+<br> 
+- Comparte algunas similitudes físicas con la tarea original, pero
+se identifican con menos facilidad. Se cambian de tres a seis características de las tareas (tipo de objetos, color y textura, requisitos de movimiento y medio ambiente).
+
+<br> 
+- Las tareas son conceptualmente similares a la tarea inicial, pero sus características superficiales son completamente diferentes o comparten solo una similitud (físicamente diferente).
+
+]
+
+
+ 
+
+
+
+---
+background-image: url(https://image.freepik.com/vector-gratis/ilustracion-concepto-salud-mental_114360-2038.jpg)
+background-position: 95% 101%
+background-size: 23%
+# Objetivos de la intervención
+
+<br>
+## 1. Mejorar la .orange[*detección y corrección de errores*] durante la ejecución de ADL.
+ 
+## 2. .orange[*Mantenimiento*] de lo aprendido durante las sesiones de intervención.
+
+## 3. .orange[*Generalización*] a diferentes situaciones cercanas y lejanas.
+
+---
 
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
