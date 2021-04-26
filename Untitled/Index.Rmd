@@ -91,7 +91,7 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 
 .pull-left[- Dra. María Jesús Funes Molina (**IP**)
 - Dra. María Rodriguez Bailón
-- Dra. Dulce Romero Ayuso (profesora en terapia ocupacional)
+- Dra. Dulce Romero Ayuso
 - Dr. José Antonio Merchán Baéza
 - Daniel Salazar Frías (estudiante predoctoral)
 - Giorgia Ricchetti (estudiante predoctoral) 
@@ -99,7 +99,7 @@ Con gran experiencia trabajando en esta temática a través de varios proyecto
 - Ana Szot, TO
 
 Colaboradora
-- Dra. Patrocinio Ariza Vega (profesora en terapia ocupacional)
+- Dra. Patrocinio Ariza Vega
 ]
 
 .pull-right[<img src="https://github.com/danielesnm/Presentacion-curso/blob/main/img/equipo.jpg?raw=true" width="500px">]
@@ -233,7 +233,7 @@ background-size: 45%, 40%
  
 - Dificultades en *habilidades ejecutivas y metacognitivas* `r fa("equals", fill = "salmon")` predictor de __dependencia__ en IADL.
 
-- Deficits en la capacidad de .orange[detectar/corregir errores] y en la capacidad de .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)
+- Deficits en la capacidad de .orange[detectar/corregir errores] y para .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)
 
 - Dada la alta prevalencia de estos déficits y su fuerte capacidad para predecir las limitaciones de los pacientes en IADL, es crucial que los profesionales de la rehabilitación desarrollen **herramientas de intervención efectivas** para mejorarlos, después de un daño cerebral.
 
@@ -346,22 +346,24 @@ se identifican con menos facilidad. Se cambian de tres a seis características d
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Actividades%20toglia.png?raw=true)
-background-position: 50% 65%
+background-position: 50% 61%
 background-size: 90%
 
+# .center[Toglia's transfer continuum]
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+.right[[(Toglia, et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20235769/)]
 ---
-background-image: url(https://image.freepik.com/vector-gratis/ilustracion-concepto-salud-mental_114360-2038.jpg)
-background-position: 95% 101%
-background-size: 20%
+background-image: url(https://image.freepik.com/vector-gratis/ilustracion-concepto-salud-mental_114360-2038.jpg), url(https://nepsa.es/wp-content/uploads/2020/03/QU%C3%89DATEENCASA-6-1024x819.png)
+background-position: 95% 108%, 0% 100%
+background-size: 36%, 35%
 # `r fa("brain", fill = "salmon")` Objetivos de la intervención
 
-<br>
-## 1. Mejorar la .orange[*detección y corrección de errores*] durante la ejecución de ADL.
+1. Mejorar la .orange[*detección y corrección de errores*] durante la ejecución de ADL.
  
-## 2. Determinar el .orange[*mantenimiento*] de lo aprendido durante las sesiones de intervención y en un seguimiento de 2/4 semanas.
+2. Determinar el .orange[*mantenimiento*] de lo aprendido durante las sesiones de intervención y en un seguimiento de 2/4 semanas.
 
-## 3. Determinar la cantidad de .orange[*generalización*] a diferentes contextos de tareas (near transfer) y tareas no capacitadas (far transfer).
+3. Determinar la cantidad de .orange[*generalización*] a diferentes contextos de tareas (near transfer) y tareas no capacitadas (far transfer).
 
 ???
 La combinación de trabajar más directamente en los déficits ejecutivos y en el contexto de una IADL significativa puede ser crucial no solo para una mejora en las tareas capacitadas, sino para un claro efecto de transferencia a las tareas no capacitadas. Teniendo en cuenta la necesidad de realizar más estudios, el fundamento del presente estudio fue probar si las estrategias de rehabilitación basadas en errores implementadas durante la intervención basada en la ocupación para adultos con LCA mejoran las alteraciones ejecutivas al hacer que los participantes sean conscientes de estas y motivarlos a implementar nuevas estrategias para mejorar el control inhibitorio y la capacidad de resolución de problemas. Los objetivos específicos incluyeron:
@@ -398,15 +400,25 @@ class: about-me-slide, inverse, middle, center
 
 .panel[.panel-name[Intervención]
 
-2 sesiones de una 1 hr.1/2 cada semana, durante tres semanas consecutivas, dirigidas a dos tareas IADL diseñadas para parecerse a las actividades de la vida real. Una tarea fue elegida por el participante y la otra por el terapeuta, asegurando que ambas fueran relevantes para mejorar su desempeño en la vida real, aspecto fundamental para la motivación y el compromiso en la terapia. (Ownsworth et al., 2006; Toglia et al., 2010). 
+.pull-left[.center[<img style="border-radius: 0%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.Intervencion.png?raw=true" style="width: 90%" />]]
 
-Cada tarea tiene instrucciones específicas y consta de un total de 10 a 15 pasos para completarla, y se dividió en tres niveles de dificultad. Las tareas se entrenaron alternativamente en cada nivel, una vez por semana. 
+.pull-right[- 2 sesiones de una 1 hr.1/2 cada semana, durante tres semanas consecutivas, dirigidas a dos tareas IADL diseñadas para parecerse a las actividades de la vida real.
+
+- Cada tarea tiene instrucciones específicas y consta de un total de 10 a 15 pasos para completarla, y se dividió en tres niveles de dificultad. Las tareas se entrenaron alternativamente en cada nivel, una vez por semana.
+]
+]
+
+.panel[.panel-name[Tareas]
+
+]
+]
+
+???
+ 
+Una tarea fue elegida por el participante y la otra por el terapeuta, asegurando que ambas fueran relevantes para mejorar su desempeño en la vida real, aspecto fundamental para la motivación y el compromiso en la terapia. (Ownsworth et al., 2006; Toglia et al., 2010). 
 
 En cada sesión, el nivel de requisitos ejecutivos y de supervisión se incrementó gradualmente mediante la adición de nuevos objetos distractores relacionados semántica y físicamente y nuevas situaciones conflictivas para resolver. Los objetos y situaciones conflictivas que se presentan en cada nivel de dificultad se muestran en el Apéndice 1. Parte de los principios y técnicas de intervención se basaron en los propuestos por Ownsworth et al. (2017, 2010) y Schmidt et al. (2013), combinando la aplicación de retroalimentación en línea / fuera de línea. A diferencia del trabajo anterior, en el presente estudio, la retroalimentación se centró principalmente en errores con distractores y situaciones conflictivas, para que el paciente sea consciente de cómo lidiar con ellos durante la ejecución de la acción naturalista, para promover la generalización y transferencia a través de un rango más amplio. de actividades y contextos (se puede encontrar información detallada sobre el protocolo de intervención solicitándolo a los autores). Cada sesión de intervención tuvo 4 puntos de tiempo, que se detallan a continuación
 
-.center[<img src="https://media.istockphoto.com/vectors/set-of-neurology-disease-diagnostics-and-treatment-doctor-neurologist-vector-id1214070747?k=6&m=1214070747&s=612x612&w=0&h=rhH51HcRy9qgF-WuIYPwdVhd-yhPwGr1sCo3G4Vs_S0=" width="500px">
-]
-]]
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
 background-position: 5% 50%
