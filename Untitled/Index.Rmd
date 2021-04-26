@@ -227,17 +227,16 @@ background-size: 65%
 
 ---
 background-image: url(https://image.freepik.com/vector-gratis/servicio-limpieza-deberes-profesionales-composiciones-planas-2-juegos-horizontales-piso-barriendo-espejos-aspiradores-lavado-ilustracion_1284-29298.jpg), url(https://www.pbctoday.co.uk/news/wp-content/uploads/2018/10/dreamstime_s_3016268-1.jpg)
-background-position: 90% 100%, 5% 100%
+background-position: 87% 95%, 5% 95%
 background-size: 45%, 40%
 # `r fa("brain", fill = "salmon")` **Antecedentes científicos**
 
  
-- Dificultades en *habilidades ejecutivas y metacognitivas* `r fa("equals", fill = "salmon")` predictor de __dependencia__ en IADL.
+**Déficits en habilidades ejecutivas y metacognitivas** (.orange[detectar/corregir errores] - .orange[inhibir acciones] hacia objetos irrelevantes) `r fa("arrow-right", fill = "salmon")` predictor de dependencia en IADL `r fa("equals", fill = "salmon")` *mayor tiempo de tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)  
 
-- Deficits en la capacidad de .orange[detectar/corregir errores] y para .orange[inhibir acciones] hacia objetos irrelevantes `r fa("equals", fill = "salmon")` *mayor tiempo de realización de la tarea* `r fa("equals", fill = "salmon")` *comportamientos peligrosos* [(Burgess, 2000;](https://pubmed.ncbi.nlm.nih.gov/11004881/) [Chevignard et al., 2008;](https://pubmed.ncbi.nlm.nih.gov/18576272/) [Ciurli et al., 2010;](https://pubmed.ncbi.nlm.nih.gov/20109243/) [Hart, et al, 1998;](https://pubmed.ncbi.nlm.nih.gov/9753532/) [Hendry et al., 2016;](https://pubmed.ncbi.nlm.nih.gov/27790099/) [Niki, et al., 2019;](https://pubmed.ncbi.nlm.nih.gov/30787897/) [Ownsworth y Clare, 2006;](https://pubmed.ncbi.nlm.nih.gov/16814436/) [Villalobos et al., 2020).](https://pubmed.ncbi.nlm.nih.gov/32743646/)
-
-- Dada la alta prevalencia de estos déficits y su relación con IADL, es crucial el **desarrollo de herramientas de intervención efectivas** en pacientes con daño cerebral. 
-
+--
+## .center[.my-gold[Dada la alta prevalencia de estos déficits y su relación con IADL, es crucial el **desarrollo de herramientas de intervención efectivas** en pacientes con daño cerebral. 
+]]
 ---
 background-image: url(https://www.brainscape.com/academy/content/images/2020/11/Brain-inception.png)
 background-position: 100% 110%
@@ -390,10 +389,14 @@ class: about-me-slide, inverse, middle, center
 .left-column[<br>
 .center[<img style="border-radius: 60%;" src="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/ORP/Brain_Mental_Health-20190104044600977.jpg" style="width: 90%" />]]
 
-.right-column[- Varón diestro de 35 años con estudios secundarios sin terminar. 
-- TCE  moderado como resultado de un accidente laboral (GCS 9/15). 
-- TAC mostró focos contusivos temporales bilaterales, asociados a hemorragia subaracnoidea traumática. 
-- Evaluación NP: dificultades en la categorización, planificación y organización de su comportamiento, con tendencia a la inflexibilidad cognitiva y la imposibilidad de modificar sus respuestas durante las tareas, sin poder encontrar soluciones alternativas. 
+.right-column[- Varón diestro, 35 años, estudios secundarios sin terminar.  
+
+- TCE  moderado como resultado de un accidente laboral (GCS 9/15).  
+
+- TAC mostró focos contusivos temporales bilaterales, asociados a hemorragia subaracnoidea traumática.  
+
+- Evaluación NP: dificultades en la categorización, planificación y organización de su comportamiento, con tendencia a la inflexibilidad cognitiva y la imposibilidad de modificar sus respuestas durante las tareas, sin poder encontrar soluciones alternativas.  
+
 - Varios cuestionarios de AVD revelaron dificultades para realizar las tareas de la vida diaria.
 ]
 
