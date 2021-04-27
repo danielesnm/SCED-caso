@@ -384,6 +384,12 @@ class: about-me-slide, inverse, middle, center
 
 .center[<img src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20M%C3%A9todo.png?raw=true" width="900px">]
 
+- Diseño de caso único. línea de base (A) + intervención (B)+ postintervención (m). 
+- El comportamiento objetivo se midió 4 veces durante A. La fase B consistió en 6 sesiones, durante las cuales se realizaron 2 IADL durante 3 semanas. 
+- El nivel de dificultad aumentó gradualmente agregando nuevos distractores (semántica y físicamente) y nuevas situaciones conflictivas para resolver. 
+- Durante m, se midió de forma inmediata, a las 2 y 4 semanas.
+
+
 ]
 .panel[.panel-name[Sujeto]
 .left-column[<br><br><br><br>
@@ -516,6 +522,14 @@ background-size: 50%
 - Al terminar, se inicia una discusión con el px., se resume su desempeño, enfocándose en las estrategias que fueron discutidas y la asistencia brindada para ayudarlo a realizar la tarea correctamente en el futuro.
 
 - Se explica la relación entre la tarea entrenada y otras AVD, animandolo a pensar en otras tareas donde podría aplicar las estrategias aprendidas y estimular la generalización:<br> .orange[_"¿No sería bueno si pudieras hacer esto de nuevo con otras tareas?", "¿Es esto similar a lo que suele hacer en casa?", "¿Qué otras actividades en casa podrías practicar lo que hicimos hoy?”._]
+
+---
+layout: false
+class: about-me-slide, inverse, middle, center
+
+# .gold[Resultados]
+----
+# `r fa("tasks", fill = "orange")`   `r fa("chart-bar", fill = "orange")`    
 
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
