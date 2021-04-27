@@ -416,7 +416,16 @@ class: about-me-slide, inverse, middle, center
 ]
 
 .panel[.panel-name[Tarea 2]
+.pull-left[.center[<img style="border-radius: 0%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2%20.Tarea.png?raw=true" style="width: 90%" />]]
 
+.pull-right[**Objetos target**<br>- 2 D: pan hamburguesa, salchicha.<br>- 1 SC:  plato sucio.
+
+<br>
+**Objetos target**<br>- 4 D: Nivel 1 + tostadora, pañuelos.<br>- 2 SC: Nivel 1 + pan roto.
+
+<br><br>
+**Objetos target**<br>- 4 D: Nivel 1 + Nivel 2 + mortadela, cortador de pizza, queso crema, cuchara.<br>- 2 SC: Nivel 1 + Nivel 2 + sandwichera sucia, tenedor en mantequilla.
+]
 ]
 
 .panel[.panel-name[Intervención]
