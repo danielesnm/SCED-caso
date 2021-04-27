@@ -429,15 +429,13 @@ class: about-me-slide, inverse, middle, center
 ]
 
 .panel[.panel-name[Intervención]
+- 2 sesiones x semana (1:30 hr), 3 semanas.
 
-.pull-left[.center[<img style="border-radius: 0%;" src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.Intervencion.png?raw=true" style="width: 90%" />]]
-
-.pull-right[- 2 sesiones x semana (1:30 hr), 3 semanas.
-
-- Feedback online/offline, centrandonos en errores con distractores y situaciones conflictivas en dos tareas IADL.<br>Objetivo: que el paciente sea consciente de cómo lidiar con ellos y promover la generalización a través de un rango más amplio de actividades y contextos.
+- Feedback online/offline, centrandonos en errores con distractores y situaciones conflictivas en dos tareas IADL, paraque el paciente sea consciente de cómo lidiar con ellos y promover la generalización a otras actividades y contextos.
 
 - Cada sesión de intervención tuvo 4 puntos de tiempo.
-]
+.center[<img src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.Intervencion.png?raw=true" width="700px">]
+
 ]
 ]
 
@@ -452,24 +450,24 @@ background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled
 background-position: 0% 0%
 background-size: 50%
 <br>
-# .right[Fases de la intervención]
+# .right[Fases de la intervención<br>.orange[Grabación video]]
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2.%20intervencion.png?raw=true)
 background-position: 0% 0%
 background-size: 50%
 <br>
-# .right[Fases de la intervención]  
-<br><br><br>
-### 1. `r fa("eye", fill = "orange")` el video: `r fa("user-alt", fill = "orange")` id. sus errores y los corrige de manera espontánea.  
+# .right[Fases de la intervención<br>.orange[Videofeedback]]
+<br><br>
+Paso 1. `r fa("eye", fill = "orange")` el video: `r fa("user-alt", fill = "orange")` id. sus errores y los corrige de manera espontánea.  
 <br>
 --
 
-### 2. `r fa("eye", fill = "orange")` el video: `r fa("user-friends", fill = "orange")`, guiado para discutir su desempeño y las estrategias para mejorarlo.  
+Paso 2. `r fa("eye", fill = "orange")` el video: `r fa("user-friends", fill = "orange")`, guiado para discutir su desempeño y las estrategias para mejorarlo.  
 <br>
 --
 
-### 3. Si no id. errores ni evoca soluciones, se utiliza la técnica de anticipación guiada y generación de estrategias (Toglia et al. 2010): .orange[ _"parece que has notado algo", "estás reaccionando como si hubieras  vio un error ", "¿qué cosas podrías haber hecho para solucionarlo?", "intenta pensar en situaciones similares; ¿Qué has hecho antes para resolverlas?"_]
+Paso 3. Si no id. errores ni evoca soluciones, se utiliza la técnica de anticipación guiada y generación de estrategias (Toglia et al. 2010): .orange[ _"parece que has notado algo", "estás reaccionando como si hubieras  vio un error ", "¿qué cosas podrías haber hecho para solucionarlo?", "intenta pensar en situaciones similares; ¿Qué has hecho antes para resolverlas?"_]
 
 
 ---
@@ -477,9 +475,9 @@ background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled
 background-position: 0% 0%
 background-size: 50%
 <br>
-# .right[Fases de la intervención]  
-<br><br><br>
-El videofeedback se guió con los principios descritos por Schmidt, et al. (2015):
+# .right[Fases de la intervención<br>.orange[Videofeedback]]
+<br><br>
+Se guió con los principios descritos por [Schmidt, et al. (2012)](https://journals.sagepub.com/doi/full/10.1177/1545968312469838):
 
 1. Utilizar tareas significativas para los pacientes para mejorar la motivación y el compromiso con la terapia.
 2. Construir una relacion terapeutica.
@@ -494,7 +492,17 @@ background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled
 background-position: 0% 0%
 background-size: 50%
 <br>
-# .right[Fases de la intervención]
+# .right[Fases de la intervención<br>.orange[Feedback online]]
+
+### .right[_pasue, prompt, praise_]
+Paso 1 (**pause**): si se produce un error durante la actividad, el terapeuta espera de 3 a 5s para que el px lo detecte y corrija de manera espontanea.  
+<br>
+--
+Paso 2 (**prompt**): si no lo detecta o no logra corregirlo, se proporciona ayuda en el sig. orden:<br> - .orange[No especifica:] _"¿por qué eligió esta respuesta", "Eso no es correcto ¿puedes decirme por qué?”_ <br> - .orange[Especifica:] _"No es correcto porque ...", "Pruebe esta [estrategia]" (ir más despacio, decir cada paso en voz alta, verbalizar un plan antes de comenzar o usar una lista de verificación)_ <br> - .orange[Modelar:] el paso que sigue, y que el px lo realice después.  
+<br>
+--
+Paso3 (**praise**): el terapeuta proporciona retroalimentación positiva inmediata (elogio) al paciente. 
+
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/4.%20intervencion.png?raw=true)
@@ -502,6 +510,12 @@ background-position: 0% 0%
 background-size: 50%
 <br>
 # .right[Fases de la intervención]
+<br><br>
+- Después de completar las fases de intervención activa, se pide al px que realizar la tarea nuevamente. Sirvió como medida posterior a la intervención para cada sesión. 
+
+- Al terminar, se inicia una discusión con el px., se resume su desempeño, enfocándose en las estrategias que fueron discutidas y la asistencia brindada para ayudarlo a realizar la tarea correctamente en el futuro.
+
+- Se explica la relación entre la tarea entrenada y otras AVD, animandolo a pensar en otras tareas donde podría aplicar las estrategias aprendidas y estimular la generalización:<br> .orange[_"¿No sería bueno si pudieras hacer esto de nuevo con otras tareas?", "¿Es esto similar a lo que suele hacer en casa?", "¿Qué otras actividades en casa podrías practicar lo que hicimos hoy?”._]
 
 ---
 background-image: url(https://i.pinimg.com/564x/67/bb/3b/67bb3bf5cb27bdf90f0cda5bb6192461.jpg)
