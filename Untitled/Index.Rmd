@@ -532,6 +532,9 @@ class: about-me-slide, inverse, middle, center
 # `r fa("tasks", fill = "orange")`   `r fa("chart-bar", fill = "orange")`    
 
 ---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Grafica.png?raw=true)
+background-position: 80% 35%
+background-size: 60%
 # Primary outcomes
 
 .left-column[## .my-hot-pink[Funcionales]<br>.center[`r fa("arrow-down", fill = "orange")`]
@@ -542,7 +545,6 @@ class: about-me-slide, inverse, middle, center
 ]
 
 
-.right-column[ihuihiu]
 
 
 ---
