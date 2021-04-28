@@ -544,10 +544,10 @@ background-size: 60%
 
 ]
 
-
-
-
 ---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2.%20Grafica.png?raw=true)
+background-position: 80% 50%
+background-size: 60%
 # Primary outcomes
 
 .left-column[.center[**Funcionales**<br>1. "#" de errores en tareas entrenadas<br>2. Mantenimiento]
@@ -563,7 +563,6 @@ background-size: 60%
 ]
 ]
 
-.right-column[ihuihiu]
 
 ---
 
