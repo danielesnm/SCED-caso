@@ -129,16 +129,26 @@ Pacientes con DCA presentan con frecuencia déficits cognitivos que causan prob
 # A slide where bullets appear
 
 --
-
-### * first point
-
---
-
-* Clinica e Investigación
+* .orange[**La importancia del trabajo interdisciplinario**]  
+_"Además de las secualas cognitivas después de un DCA, se pueden presentar problemas en la organización y el desarrollo de estrategias para completar las actividades de la vida diaria (**AVD**). Las intervenciones NP tienen un potencial significativo para mejorar funciones cognitivas (**memoria, atención, FE**), pero muchas veces nos olvidamos promover esas mejoras en AVD e influir en el estado psicosocial de los pacientes."_
 
 --
 
-* Generalizacion
+* .orange[**¿Clínica e Investigación?**]
+
+--
+
+* .orange[**La ocurrencia y medición de la transferencia en rehabilitación cognitiva**]  
+_El objetivo de un programa de rehabilitación es devolver a los pacientes el máximo potencial y la máxima independencia, lo que se espera que dé lugar a un funcionamiento independiente, el regreso a su propio hogar y la participación en la sociedad. Es, por tanto, de gran importancia para el éxito clínico de un programa terapéutico._ 
+
+---
+layout: false
+class: about-me-slide, inverse, middle, center
+
+# .gold[Antecedentes científicos]
+----
+# `r fa("brain", fill = "orange")`   `r fa("book-open", fill = "orange")`    `r fa("clinic-medical", fill = "orange")`
+
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Intro.png?raw=true)
