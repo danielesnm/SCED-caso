@@ -192,4 +192,4 @@ blockquote {
 .my-red     { color:   #600018 }
 .my-coral   { color:   #903030 }
 .my-pink    { color:   #c09090 }
-.my-hot-pink { background-color: #ff69b4 }
+.my-hot-pink { border:3px solid #b0e0e6 }

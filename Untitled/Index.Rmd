@@ -130,7 +130,7 @@ Pacientes con DCA presentan con frecuencia déficits cognitivos que causan prob
 
 --
 
-* first point
+### * first point
 
 --
 
@@ -546,29 +546,26 @@ background-size: 60%
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/2.%20Grafica.png?raw=true)
-background-position: 80% 50%
+background-position: 85% 50%
 background-size: 60%
 # Primary outcomes
 
 .left-column[.center[**Funcionales**<br>1. "#" de errores en tareas entrenadas<br>2. Mantenimiento]
 
-
-
-## .my-hot-pink[.center[Awareness: Online component<br>`r fa("arrow-down", fill = "orange")`
+.center[## .my-hot-pink[Awareness:online] <br>.center[`r fa("arrow-down", fill = "orange")`]
 
 #### 1. Errores antiguos v.s nuevos
-
 #### 2. Auto-correción de errores
 ]
 ]
-]
 
-
----
 
 
 ---
+# Generalization outcomes
 
+---
+# Generalization outcomes
 
 ---
 
