@@ -134,11 +134,11 @@ Pacientes con DCA presentan con frecuencia déficits cognitivos que causan prob
 
 --
 
-* second point
+* Clinica e Investigación
 
 --
 
-* third point
+* Generalizacion
 
 ---
 background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Intro.png?raw=true)
@@ -443,6 +443,17 @@ class: about-me-slide, inverse, middle, center
 .center[<img src="https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.Intervencion.png?raw=true" width="700px">]
 
 ]
+
+.panel[.panel-name[Objetivos]
+
+Probar si las **estrategias metacognitivas** implementadas en el contexto de dos IADL, mejoran las alteraciones ejecutivas al hacer que los participantes sean conscientes de estas y motivarlos a implementar dichas estrategias para mejorar el control inhibitorio y la capacidad de resolución de problemas, en otras actividades. 
+
+**Objetivos específicos:** 
+1. Mejorar la .orange[*detección y corrección de errores*] durante la ejecución de ADL.
+2. Determinar el .orange[*mantenimiento*] de lo aprendido durante las sesiones de intervención y en un seguimiento de 2/4 semanas.
+3. Determinar la cantidad de .orange[*generalización*] a diferentes contextos de tareas (near transfer) y tareas no capacitadas (far transfer).
+
+]
 ]
 
 ???
@@ -562,10 +573,29 @@ background-size: 60%
 
 
 ---
+background-image: url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/1.%20Grafica.png?raw=true), url(https://github.com/danielesnm/SCED-caso/blob/main/Untitled/img/3.%20Grafica.png?raw=true)
+background-position: 75% 25%, 75% 98%
+background-size: 45%, 45%
 # Generalization outcomes
+
+.left-column[## .my-hot-pink[Funcionales]<br>.center[`r fa("arrow-down", fill = "orange")`]
+#### 1.  "#" de errores en tareas entrenadas con nuevo contexto
+
+#### 2. "#" de errores en tarea no entrenada
+
+]
 
 ---
 # Generalization outcomes
+
+.left-column[.center[**Funcionales**<br>1. "#" de errores en tareas entrenadas nuevo contexto<br>2. "#" de errores en tarea no entrenada]
+
+.center[## .my-hot-pink[Neuropsicológicas] <br>.center[`r fa("arrow-down", fill = "orange")`]]
+
+#### 1. WCPA 
+#### 2. INECO 
+#### 3. WCST 
+]
 
 ---
 
